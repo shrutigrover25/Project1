@@ -1,2 +1,2 @@
 # Project1
-This is a new change in the 'feature-1' branch.
+This is a conflicting change in the 'feature-2' branch.
